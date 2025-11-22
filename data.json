@@ -1,0 +1,122 @@
+[
+    {
+        "nome": "Dragon Ball",
+        "sinopse": "A série segue as aventuras de Goku desde sua infância até a idade adulta, enquanto ele treina em artes marciais e explora o mundo em busca das sete esferas do dragão.",
+        "genero": "Ação, Aventura, Fantasia",
+        "ano_lancamento": 1986,
+        "autor": "Akira Toriyama",
+        "link": ""
+    },
+    {
+        "nome": "Jujutsu Kaisen",
+        "sinopse": "A história acompanha Yuji Itadori, um estudante do ensino médio que se envolve no mundo das maldições e feitiçaria após ingerir um objeto amaldiçoado para salvar seus amigos.",
+        "genero": "Ação, Sobrenatural, Horror",
+        "ano_lancamento": 2020,
+        "autor": "Gege Akutami",
+        "link": ""
+    },
+    {
+        "nome": "Naruto",
+        "sinopse": "A história acompanha Naruto Uzumaki, um jovem ninja que busca reconhecimento e sonha em se tornar o Hokage, o líder de sua vila.",
+        "genero": "Ação, Aventura, Fantasia",
+        "ano_lancamento": 2002,
+        "autor": "Masashi Kishimoto",
+        "link": ""
+    },
+    {
+        "nome": "One Piece",
+        "sinopse": "A série segue as aventuras de Monkey D. Luffy e sua tripulação de piratas enquanto procuram o tesouro lendário conhecido como 'One Piece' para se tornarem o Rei dos Piratas.",
+        "genero": "Ação, Aventura, Fantasia",
+        "ano_lancamento": 1999,
+        "autor": "Eiichiro Oda",
+        "link": ""
+    },
+    {
+        "nome": "Attack on Titan",
+        "sinopse": "A história se passa em um mundo onde a humanidade vive dentro de cidades cercadas por enormes muralhas para se proteger dos Titãs, gigantes humanoides que devoram humanos.",
+        "genero": "Ação, Drama, Fantasia Sombria",
+        "ano_lancamento": 2013,
+        "autor": "Hajime Isayama",
+        "link": ""
+    },
+    {
+        "nome": "My Hero Academia",
+        "sinopse": "Em um mundo onde quase toda a população possui superpoderes chamados 'Quirks', a série segue Izuku Midoriya, um garoto sem poderes que sonha em se tornar o maior herói.",
+        "genero": "Ação, Aventura, Superpoderes",
+        "ano_lancamento": 2016,
+        "autor": "Kōhei Horikoshi",
+        "link": ""
+    },
+    {
+        "nome": "Demon Slayer",
+        "sinopse": "A história segue Tanjiro Kamado, um jovem que se torna um caçador de demônios após sua família ser massacrada por demônios e sua irmã Nezuko ser transformada em um deles.",
+        "genero": "Ação, Aventura, Sobrenatural",
+        "ano_lancamento": 2019,
+        "autor": "Koyoharu Gotouge",
+        "link": ""
+    },
+    {
+        "nome": "Fullmetal Alchemist: Brotherhood",
+        "sinopse": "A série segue os irmãos Edward e Alphonse Elric, que usam alquimia na tentativa de trazer sua mãe de volta à vida, mas acabam pagando um preço alto por isso.",
+        "genero": "Ação, Aventura, Fantasia",
+        "ano_lancamento": 2009,
+        "autor": "Hiromu Arakawa",
+        "link": ""
+    },
+    {
+        "nome": "Death Note",
+        "sinopse": "A história gira em torno de Light Yagami, um estudante do ensino médio que encontra um caderno sobrenatural chamado 'Death Note', que permite matar qualquer pessoa cujo nome seja escrito nele.",
+        "genero": "Suspense, Sobrenatural, Mistério",
+        "ano_lancamento": 2006,
+        "autor": "Tsugumi Ohba e Takeshi Obata",
+        "link": ""
+    },
+    {
+        "nome": "Sword Art Online",
+        "sinopse": "A série segue Kirito, um jogador preso em um jogo de realidade virtual onde a morte no jogo significa a morte na vida real, enquanto ele luta para escapar e salvar outros jogadores.",
+        "genero": "Ação, Aventura, Ficção Científica",
+        "ano_lancamento": 2012,
+        "autor": "Reki Kawahara",
+        "link": ""
+    },
+    {
+        "nome": "Hunter x Hunter",
+        "sinopse": "A série segue Gon Freecss, um jovem que descobre que seu pai, que ele pensava estar morto, é na verdade um caçador lendário. Gon decide seguir os passos do pai e se tornar um caçador também.",
+        "genero": "Ação, Aventura, Fantasia",
+        "ano_lancamento": 1998,
+        "autor": "Yoshihiro Togashi",
+        "link": ""
+    },
+    {
+        "nome": "Bleach",
+        "sinopse": "A história segue Ichigo Kurosaki, um adolescente que acidentalmente adquire os poderes de um Ceifador de Almas e deve proteger os vivos dos espíritos malignos conhecidos como Hollows.",
+        "genero": "Ação, Aventura, Sobrenatural",
+        "ano_lancamento": 2004,
+        "autor": "Tite Kubo",
+        "link": ""
+    },
+    {
+        "nome": "Tokyo Ghoul",
+        "sinopse": "A série segue Ken Kaneki, um estudante universitário que se torna meio-ghoul após um encontro quase fatal com um ghoul. Ele deve aprender a viver entre humanos e ghouls enquanto lida com sua nova identidade.",
+        "genero": "Horror, Sobrenatural, Drama",
+        "ano_lancamento": 2014,
+        "autor": "Sui Ishida",
+        "link": ""
+    },
+    {
+        "nome": "Blue Lock",
+        "sinopse": "A história gira em torno de um programa de treinamento intensivo para encontrar o melhor atacante do futebol japonês, onde os participantes competem uns contra os outros em um ambiente altamente competitivo.",
+        "genero": "Esporte, Drama",
+        "ano_lancamento": 2022,
+        "autor": "Muneyuki Kaneshiro e Yusuke Nomura",
+        "link": ""
+    },
+    {
+        "nome": "Spy x Family",
+        "sinopse": "A série segue um espião que deve criar uma família falsa para completar uma missão, sem saber que sua esposa é uma assassina e sua filha adotiva é uma telepata.",
+        "genero": "Ação, Comédia, Espionagem",
+        "ano_lancamento": 2022,
+        "autor": "Tatsuya Endo",
+        "link": ""
+    }
+]
